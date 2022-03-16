@@ -3,15 +3,15 @@ public class NewTest {
 
 	public static void main(String[] args) {
 		
-			String hungry = "yes";
+			String school = "yes";
 			
-			if(hungry == "yes")
+			if(school == "yes")
 			{
-				System.out.println("Eat something");
+				System.out.println("You are a student");
 			}
 			else
 			{
-				System.out.println("Do your work");
+				System.out.println("Not a student");
 			}
 		}
 
