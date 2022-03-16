@@ -1,0 +1,3 @@
+@ECHO
+ECHO Hello
+PAUSE
